@@ -1,0 +1,5 @@
+rob - 350
+jack - 120
+ness - 300
+owen - 180
+mario - 100
